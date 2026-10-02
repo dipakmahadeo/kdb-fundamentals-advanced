@@ -1,6 +1,6 @@
 # KDB Fundamentals + Advanced
 
-KDB Fundamentals + Advanced 5-Day Training
+KDB Fundamentals 
 
 This repository hosts the training material for a structured five-day KDB+/Q learning path covering fundamentals, table/query work, database concepts, and IPC/tickerplant architecture.
 
